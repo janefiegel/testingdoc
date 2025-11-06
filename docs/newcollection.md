@@ -1,5 +1,7 @@
+---
 title: First Attempt
 nav_order: 2
+---
 
 # Repository
 {: .no_toc }
