@@ -1,7 +1,7 @@
 ---
 title: Subpage
 layout: default
-parent: Repository
+parent: First Attempt
 ---
 ## Will this work?
 
